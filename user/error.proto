@@ -1,2 +1,4 @@
 syntax = "proto3";
 package error;
+
+go_option="v1;v1";
